@@ -1,6 +1,6 @@
 # 🎮 Jogo de Adivinhação em Java
 
-Projeto simples feito em Java com interface gráfica usando Swing.
+Projeto simples feito em Java com interface gráfica usando Swing e focando em lógica de programação
 
 ## 💡 Como funciona
 O sistema gera um número aleatório entre 1 e 100, e o usuário precisa adivinhar.
